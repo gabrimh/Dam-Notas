@@ -1,0 +1,47 @@
+
+#ATAJOS EN GNU/LINUX - GNOME
+
+En notación de Backus-Naur
+
+! {Icono GDM} (./apuntes/ignu.png Viva Gnu)
+
+
+##GNOME
+
+Meta = Panel lateral
+C+ q = Quitar un programa 
+C+ w = Cerrar una ventana 
+Alt + Tabulador = Alternar entre programa 
+Alt + _a_ (encima tabulador) = Alternar entre ventanas del mismo programa
+Control + Alt + Flecha Abajo = Moverte entre los diversos escritorios
+Control + Mayus + u = meter(caracteres)
+Meta + Space = Cambio de idioma 
+Fg + 1 = Volver a primer plano 
+F11 = Maximizar
+
+
+##TEXTO
+
+Control + (+) = Ampliar fuente
+Control + (-) = Reducir fuente
+Control + c = Copiar
+Control + v = Pegar
+Control + x = Cortar
+Control + Mayus + u + 2190/1/2/3 = Poner flechas
+Shift + ←↑→↓ = Subrayar de caracter a caracter
+Control + Shift + ←↑→↓ = Subrayar las palabras enteras
+
+##TERMINAL
+
+Control + Alt + t =  Sacar terminal 
+Control + Mayus + t = Sacar una nueva pestaña 
+Alt + (nº) = Le da el foco a la pestaña _number_
+Control + Mayus + P = Instalar paquetes, Install Package (Paquetes)
+Hacer Lista = Poner (*) delante 
+Control  + c = interrumpir programa 
+Control  + z = Pasar a segundo plano 
+Control +  Mayus + c = Copiar
+Control + Mayus + v = Pegar
+Control + l = Borrar pantalla
+Display = Visor de imagenes 
+Control + d = Terminar fichero
